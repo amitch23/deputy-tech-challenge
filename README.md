@@ -1,4 +1,4 @@
-# Deputy Technical Challenge Response - Andrea Mitchell
+# Deputy Technical Challenge Response
 
 ## Prereqs
 
